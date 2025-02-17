@@ -1,5 +1,4 @@
 # to make a calculator 
-# demo changes
 
 def sum(a, b):
     return float(a+b)
